@@ -48,12 +48,12 @@ Image {
                     OpacityAnimator {
                         target: logo
                         from: 0.5
-                        to: 1
+                        to: 0.85
                         duration: 1200
                     }
                     OpacityAnimator {
                         target: logo
-                        from: 1
+                        from: 0.85
                         to: 0.5
                         duration: 1200
                     }
